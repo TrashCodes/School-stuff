@@ -1,1 +1,6 @@
-TUtotial
+# Tutorial on setting up this IOT project
+This application is a pill reminder box. This application will remind the user to eat medicine with the aid of a buzzer. It will then record the date, time and whether the user took the medicine on time. If the user did not take the medicine on time, it will then send a telegram message to the guardian. The web interface then allow the guardian choose whether to alert the user again. By alerting the user again, the application will turn on the buzzer and take a picture of the user and send it to the guardian to let him/her know what happen to the user. If the medicine is taken, the program will check if the medicine is taken by elderly with face recogniztion. This is to ensure that the medicine is taken by elderly and not by kids or pets
+
+This application can help the working guardian who are too busy at work where they could not monitor the elderly to take medicine on time everyday. With the application, the guardian could ensure the elderly take the medicine on time everyday. 
+
+This application also shows the current humidity and temperature of the surrounding. There are 2 type of medicine to let the user choose from, a pill medicine (solid) and liquid medicine. It records the current PH value of the liquid medicine which allows the working guardian to know the condition of the medicine. If the PH value reach a unhealthy level, it will alert the user to change medicine. 
